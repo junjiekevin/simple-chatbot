@@ -1,0 +1,9 @@
+__*/
+DS*
+DS*/
+.DS_*
+
+my_env/
+LLM_application_chatbot/pycache/
+*.pyc
+.env
